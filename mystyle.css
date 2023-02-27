@@ -15,25 +15,6 @@ body {
 	    border-bottom: 1px solid #1e2c48;
 }
 
-/* .cards {
-   display: flex;
-   justify-content:center;
-}
-.card {
-
-   display: flex;
-   flex-wrap: wrap;
-   justify-content:space-between;
-}
-.cards {
-   display: flex;
-   flex-wrap: wrap;
-   justify-content: space-between;
-}
- 
-.card {
-    flex: 0 1 24%;
-} */
 
 .cards {
     display: flex;
